@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "roles": [
+    {"id": "OWNER", "displayName": "Owner", "color": "#FFAA00", "priority": 100, "icon": null},
+    {"id": "ADMIN", "displayName": "Admin", "color": "#FF5555", "priority": 90, "icon": null},
+    {"id": "DEVELOPER", "displayName": "Developer", "color": "#5555FF", "priority": 80, "icon": null},
+    {"id": "MODERATOR", "displayName": "Moderator", "color": "#00AAAA", "priority": 70, "icon": null},
+    {"id": "PARTNER", "displayName": "Partner", "color": "#AA00AA", "priority": 60, "icon": null},
+    {"id": "VIP", "displayName": "VIP", "color": "#FFFF55", "priority": 50, "icon": null},
+    {"id": "USER", "displayName": "User", "color": "#FFFFFF", "priority": 10, "icon": null}
+  ],
+  "entries": [
+    {"uuid": "61f93c59-2ebc-46b9-9570-ee0484ce66f3", "role": "OWNER", "note": "Simon"}
+  ]
+}
